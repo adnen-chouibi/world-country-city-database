@@ -50,7 +50,7 @@ Habibi API
         ]
     }
 
-## submit Plan
+## Submit Plan
 
 *Request*
 
