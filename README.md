@@ -3,7 +3,7 @@ Habibi API
 
 
 * [Matches service](#matches)
-* [Submit plan](#submitPlan)
+* [Submit plan](#submit-plan)
 
 
 
