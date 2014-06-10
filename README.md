@@ -55,9 +55,4 @@ Habibi API
 *Request*
 
     * POST http://habibi/api.php/submitPlan.json   content:{"apikey":"7abibi", "identifier":"mobi.app4mob.plan.chat-2j", "user_id":"1" }
-
-*Response*
-
-    * Success:
-
-    {"status":"fail","data":{"identifier":"This plan doesn't exist"}}    
+  
