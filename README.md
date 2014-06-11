@@ -10,6 +10,9 @@ Habibi API
 
 
 ## matches
+
+**Request**
+
 * MyLikes :
     * GET http://habibi/api.php/matches?id=1&type=1&page=1
 * LikesMe:
@@ -17,7 +20,7 @@ Habibi API
 * LikesMe:
     * GET http://habibi/api.php/matches?id=1&type=3&page=1
     
-*Response Example*
+**Response Example**
 
     {
         status: "success",
